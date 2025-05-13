@@ -13,11 +13,4 @@
 2025-05-13 22:17:20,487 - INFO - Futures order status: {'orderId': 4424258594, 'symbol': 'BTCUSDT', 'status': 'FILLED', 'clientOrderId': 'x-Cb7ytekJ2eb71b700586d19d3e188d', 'price': '0.00', 'avgPrice': '103976.00000', 'origQty': '0.001', 'executedQty': '0.001', 'cumQuote': '103.97600', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'time': 1747154320216, 'updateTime': 1747154320216}
 2025-05-13 22:18:43,695 - INFO - Symbol BTCUSDT validated for futures trading
 2025-05-13 22:19:15,705 - ERROR - Futures stop-limit order error: APIError(code=-4013): Price less than min price.
-2025-05-13 22:22:33,415 - INFO - Symbol BTCUSDT validated for futures trading
-2025-05-13 22:23:10,065 - ERROR - Futures limit order error: APIError(code=-4013): Price less than min price.
-2025-05-13 22:24:04,645 - INFO - Symbol BTCUSDT validated for futures trading
-2025-05-13 22:24:29,725 - ERROR - Futures limit order error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
-2025-05-13 22:26:06,785 - INFO - Symbol BTCUSDT validated for futures trading
-2025-05-13 22:26:28,988 - INFO - Futures limit order placed: {'orderId': 4424300408, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ9e75ad98adcd38ec798281', 'price': '100000.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1747155391322}
-2025-05-13 22:26:43,906 - INFO - Symbol BTCUSDT validated for futures trading
-2025-05-13 22:26:56,812 - ERROR - Futures stop-limit order error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+
