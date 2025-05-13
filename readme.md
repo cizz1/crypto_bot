@@ -18,7 +18,7 @@ This project is a simplified trading bot developed as part of the internship app
 
 Below is a screenshot of the Streamlit UI in action:
 
-![Streamlit UI](bot_ui.png)
+![Streamlit UI](bot_ui.py.png)
 
 ---
 
