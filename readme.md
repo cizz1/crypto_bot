@@ -1,6 +1,6 @@
 # Binance Futures Trading Bot
 
-This project is a simplified trading bot developed as part of an internship application. It interacts with the Binance Futures Testnet to place market, limit, and stop-limit orders for USDT-margined futures (e.g., BTCUSDT). Built using Python and the `python-binance` library, it features both a command-line interface (CLI) and a Streamlit web interface, meeting the assignment requirements with a bonus lightweight frontend.
+This project is a simplified trading bot developed as part of the internship application. It interacts with the Binance Futures Testnet to place market, limit, and stop-limit orders for USDT-margined futures (e.g., BTCUSDT). Built using Python and the `python-binance` library, it features both a command-line interface (CLI) and a Streamlit web interface.
 
 ---
 
